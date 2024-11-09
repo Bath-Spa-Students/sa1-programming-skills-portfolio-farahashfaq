@@ -2,7 +2,6 @@
 Names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 #In the above string list, write the string you wish to search for.
-Search_name = "Ian"
 Search_name = "Sam"
 
 #Search for the name in the list given above.
