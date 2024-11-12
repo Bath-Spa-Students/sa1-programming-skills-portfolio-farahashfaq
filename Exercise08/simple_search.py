@@ -8,5 +8,6 @@ Search_name = "Sam"
 #Search for the name in the list given above.
 if Search_name in Names :
     print("{Search_name} is on the list!")
+    print({Search_name}, "is on the list!")
 else:
-    print("{Search_name}is not on the list sadly.")
+    print("{Search_name}is not on the list sadly.")    print({Search_name}, "is not on the list sadly.")
