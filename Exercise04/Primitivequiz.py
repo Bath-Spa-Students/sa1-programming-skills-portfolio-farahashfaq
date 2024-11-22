@@ -1,7 +1,7 @@
 #steps
 #1 Put together an application that asks the user, "What is the capital of France?"after which you await their reply.
 #2 The application should indicate that the message entered is accurate if they type the right response ("Paris").
-#3 if the answer is wrong, it would print incorrect
+#3 If the answer is wrong, it would print incorrect
 
 #giving the variable question.
 Answer = input("What is the capital of France?:")
