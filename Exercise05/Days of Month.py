@@ -1,5 +1,5 @@
-# A dictionary to keep track of each month's days
-# Month numbers are represented by keys (1 for January, 2 for February, etc.), while the days of each month are represented by values.
+#A dictionary to keep track of each month's days
+#Month numbers are represented by keys (1 for January, 2 for February, etc.), while the days of each month are represented by values.
 Days_in_month = {
     1: 31,   #January
     2: 28,   #February (assuming a non-leap year)
